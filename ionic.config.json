@@ -1,0 +1,7 @@
+{
+  "name": "rasa_chatbot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
