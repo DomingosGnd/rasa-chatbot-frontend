@@ -22,12 +22,12 @@ A interface foi desenvolvida com foco em:
 - Ambiente agradável de conversa  
 - Experiência semelhante a apps modernos de chat  
 
-### 📸 Inserir imagens aqui
+
 
 Você pode adicionar imagens no README assim:
 
 ```md
-![Nome da Imagem](./assets/images/home.png)
+
 ```
 
 Ou usando links externos:
@@ -44,32 +44,26 @@ Ou usando links externos:
 - Tela inicial de boas-vindas  
 - Botões de Login e Registrar  
 
-📸 *Coloque a imagem da Welcome Page aqui*
+![Tela Inicial](./assets/images/welcome.jpeg)
 
 ---
 
-### 🔐 Login Page
-- Autenticação do usuário  
-- UI minimalista  
+### 🔐 Home Page
+- chat
+- perfil
 
-📸 *Coloque a imagem da Login Page aqui*
-
----
-
-### 📝 Register Page
-- Cadastro de novos usuários  
-- Input validado  
-
-📸 *Coloque a imagem da Register Page aqui*
+![Tela Inicial](./assets/images/welcome.jpeg)
 
 ---
+
+
 
 ### 🏠 Home Page
 - Tela principal após login  
 - Menu e navegação  
 - Acesso ao chat  
 
-📸 *Coloque a imagem da Home Page aqui*
+![Tela Inicial](./assets/images/home.jpeg)
 
 ---
 
@@ -77,7 +71,7 @@ Ou usando links externos:
 - Interface de chat estilo Messenger  
 - Envio e recepção de mensagens via API Rasa  
 
-📸 *Coloque a imagem da Chat Page aqui*
+![chat](./assets/images/chat.jpeg)
 
 ---
 
