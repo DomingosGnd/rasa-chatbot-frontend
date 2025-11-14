@@ -38,7 +38,7 @@ A interface foi desenvolvida com foco em:
 - Botões de Login e Registrar  
 
 
-![Tela Home](https://./src/assets/images/welcome.jpeg)
+![Tela Home](https://./src/assets/images/welcame.jpeg)
 
 ---
 
