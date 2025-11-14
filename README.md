@@ -37,16 +37,8 @@ A interface foi desenvolvida com foco em:
 - Tela inicial de boas-vindas  
 - Botões de Login e Registrar  
 
-
+![Tela Inicial](./src/assets/images/welcame.jpeg)
 ![Tela Home](https://./src/assets/images/welcame.jpeg)
-
----
-
-### 🔐 Home Page
-- chat
-- perfil
-
-![Tela Home](https://./src/assets/images/home.jpeg)
 
 ---
 
