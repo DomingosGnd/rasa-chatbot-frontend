@@ -38,7 +38,7 @@ A interface foi desenvolvida com foco em:
 - Botões de Login e Registrar  
 
 
-![Tela Home](https://./assets/images/welcome.jpeg)
+![Tela Home](https://./src/assets/images/welcome.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ A interface foi desenvolvida com foco em:
 - chat
 - perfil
 
-![Tela Home](https://./assets/images/home.jpeg)
+![Tela Home](https://./src/assets/images/home.jpeg)
 
 ---
 
@@ -57,8 +57,8 @@ A interface foi desenvolvida com foco em:
 - Menu e navegação  
 - Acesso ao chat  
 
-![Tela Inicial](./assets/images/home.jpeg)
-![Tela Home](https://./assets/images/home.jpeg)
+![Tela Inicial](./src/assets/images/home.jpeg)
+![Tela Home](https://./src/assets/images/home.jpeg)
 
 ---
 
@@ -66,8 +66,8 @@ A interface foi desenvolvida com foco em:
 - Interface de chat estilo Messenger  
 - Envio e recepção de mensagens via API Rasa  
 
-![chat](./assets/images/chat.jpeg)
-![Tela Home](https://./assets/images/chat.jpeg)
+![chat](./src/assets/images/chat.jpeg)
+![Tela Home](https://./src/assets/images/chat.jpeg)
 
 ---
 
