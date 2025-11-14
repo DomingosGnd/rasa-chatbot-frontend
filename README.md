@@ -24,17 +24,10 @@ A interface foi desenvolvida com foco em:
 
 
 
-Você pode adicionar imagens no README assim:
 
-```md
 
-```
 
-Ou usando links externos:
 
-```md
-![Tela Home](https://link-da-imagem.com/home.png)
-```
 
 ---
 
@@ -44,7 +37,8 @@ Ou usando links externos:
 - Tela inicial de boas-vindas  
 - Botões de Login e Registrar  
 
-![Tela Inicial](./assets/images/welcome.jpeg)
+
+![Tela Home](https://./assets/images/welcome.jpeg)
 
 ---
 
@@ -52,7 +46,7 @@ Ou usando links externos:
 - chat
 - perfil
 
-![Tela Inicial](./assets/images/welcome.jpeg)
+![Tela Home](https://./assets/images/home.jpeg)
 
 ---
 
@@ -64,6 +58,7 @@ Ou usando links externos:
 - Acesso ao chat  
 
 ![Tela Inicial](./assets/images/home.jpeg)
+![Tela Home](https://./assets/images/home.jpeg)
 
 ---
 
@@ -72,6 +67,7 @@ Ou usando links externos:
 - Envio e recepção de mensagens via API Rasa  
 
 ![chat](./assets/images/chat.jpeg)
+![Tela Home](https://./assets/images/chat.jpeg)
 
 ---
 
