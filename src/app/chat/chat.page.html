@@ -1,0 +1,52 @@
+ <!--
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Chatbot</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Chatbot</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+     Exibindo as mensagens trocadas 
+    <div *ngFor="let msg of messages">
+      <p>{{ msg }}</p>
+    </div>
+
+     Campo de entrada para a mensagem do usuário 
+    <ion-input [(ngModel)]="userInput" placeholder="Digite sua mensagem"></ion-input>
+    
+    Botão para enviar a mensagem 
+    <ion-button (click)="sendMessage()">Enviar</ion-button>
+  </div>
+</ion-content>
+-->
+
+
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Chat</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let message of messages" [ngClass]="{'user-message': message.from === 'user', 'bot-message': message.from === 'bot'}">
+      <ion-label>{{ message.text }}</ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+    <ion-input [(ngModel)]="userInput" placeholder="Digite sua mensagem" type="text"></ion-input>
+    <ion-button (click)="sendMessage()">
+      <ion-icon name="send"></ion-icon>
+    </ion-button>
+  </ion-toolbar>
+</ion-footer>

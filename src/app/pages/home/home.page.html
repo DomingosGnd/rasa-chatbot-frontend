@@ -1,0 +1,36 @@
+<ion-header>
+    <ion-toolbar>
+      <ion-title>Bem-vindo(a)</ion-title>
+      <ion-buttons slot="end">
+        <ion-button routerLink="/settings">Configurações</ion-button>
+        <ion-button (click)="logout()">Sair</ion-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-content>
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>Resumo do Sistema</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <p>Acesse rapidamente as principais funcionalidades:</p>
+      </ion-card-content>
+    </ion-card>
+  
+    <ion-list>
+      <ion-item button routerLink="/chat">
+        <ion-icon slot="start" name="chatbubbles-outline"></ion-icon>
+        <ion-label>Iniciar Chat</ion-label>
+      </ion-item>
+      <ion-item button routerLink="/profile">
+        <ion-icon slot="start" name="person-outline"></ion-icon>
+        <ion-label>Perfil</ion-label>
+      </ion-item>
+      <ion-item button routerLink="/help">
+        <ion-icon slot="start" name="help-circle-outline"></ion-icon>
+        <ion-label>Ajuda</ion-label>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+  
