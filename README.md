@@ -38,7 +38,7 @@ A interface foi desenvolvida com foco em:
 - Botões de Login e Registrar  
 
 ![Tela Inicial](./src/assets/images/welcame.jpeg)
-![Tela Home](https://./src/assets/images/welcame.jpeg)
+
 
 ---
 
@@ -50,7 +50,7 @@ A interface foi desenvolvida com foco em:
 - Acesso ao chat  
 
 ![Tela Inicial](./src/assets/images/home.jpeg)
-![Tela Home](https://./src/assets/images/home.jpeg)
+
 
 ---
 
@@ -59,7 +59,7 @@ A interface foi desenvolvida com foco em:
 - Envio e recepção de mensagens via API Rasa  
 
 ![chat](./src/assets/images/chat.jpeg)
-![Tela Home](https://./src/assets/images/chat.jpeg)
+
 
 ---
 
