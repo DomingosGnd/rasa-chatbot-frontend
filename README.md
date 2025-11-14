@@ -122,23 +122,6 @@ src/
 
 ---
 
-## 📤 Como inserir imagens no GitHub
-
-1. Crie uma pasta no seu projeto:  
-   ```
-   src/assets/images
-   ```
-
-2. Coloque suas imagens lá.
-
-3. Referencie no README:
-
-   ```
-   ![Tela Inicial](src/assets/images/welcome.png)
-   ```
-
----
-
 ## 🛠️ Tecnologias Usadas
 
 - **Ionic 7 + Angular**
